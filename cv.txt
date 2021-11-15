@@ -2,3 +2,4 @@ Name: Collin Van der Vorst
 Age: 30
 City: Dendermonde
 Animals: a lot
+Hobbies: drinking
